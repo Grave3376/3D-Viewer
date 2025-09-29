@@ -84,7 +84,7 @@ export default function App() {
           zIndex: 10,
           background: "blue",
           backgroundSize: "400% 400%",
-          color: "#fff",
+          color: "#ffffff",
           padding: "16px 24px",
           borderRadius: "8px",
           border: "none",
