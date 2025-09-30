@@ -120,6 +120,8 @@ export default function App() {
           enableZoom={true} // Allow zooming in and out
           enablePan={true} // Allow panning
           enableRotate={true} // Enable rotation
+          autoRotate={true}          // 🔥 enables auto rotation
+          autoRotateSpeed={2.0}
           
         />
       </Canvas>
